@@ -14,17 +14,17 @@ free:
       - No decent movement modules
     pvp: false
   -
-    name: Kami Blue
+    name: Lambda
     author: 086, l1ving, iBuyMountainDew, Avanatiker
     price: Free
-    homepage: https://kamiblue.org/
+    homepage: https://lambda-client.com/
     description: |
-      An open-source fork of KAMI with a large number of useful modules. As of April 2021, "Kami Blue" is no longer maintained but the client is still a strong choice for 2b2t.
+      An open-source fork of KAMI Blue with a large number of useful modules. As of April 2021, "Kami Blue" is no longer maintained but the client is now under development as Lambda.
     pros:
       - Open-source
-      - Modules work well on 2b2t
+      - Modules work well on 2b2t and many other servers
     cons:
-      - Client not maintained
+      - 
       - Not always compatible with other clients
     pvp: true
   -
@@ -57,23 +57,23 @@ free:
     pvp: false
   -
     name: Gamesense
-    author: Cyber & Hoosiers
+    author: Cyber, Hoosiers and TechAle
     price: Free
     homepage: https://github.com/IUDevman/gamesense-client
     description: |
        A Minecraft Forge utility mod for anarchy-related servers such as 2b2t. 
     pros:
       - Unique PVP modules
-      - Open-source & actively developed
+      - Open-source
     cons:
       - Lacks utility modules
-      - Not the best to use standalone
+      - Client not maintained
     pvp: true
 paid:
   -
     name: RusherHack
     author: John200410
-    price: $20 USD
+    price: $20 USD, $120 for plus
     homepage: https://rusherhack.org/
     description: |
       Client made by John200410, who also is the main creator of Rusherb0t & the owner of both Oldfag and 2b2tpvp. Gained popularity in 2020 due to its powerful travel bypasses such as Boatfly & Boatphase.
@@ -95,7 +95,7 @@ paid:
       - Incredibly stable client
       - Very accurate and quick AutoCrystal
     cons:
-      - Extremely slow to update (over 8 months since version 2.9)
+      - Extremely slow to update (over 7 months since version 2.10)
       - Due to lack of updates, has nothing that can't be found in other clients
     pvp: true
   -
@@ -109,6 +109,6 @@ paid:
       - Cheaper than other paid clients
       - Up-to-date PVP modules
     cons:
-      - Not compatible with some clients
-      - Lacking unique modules from free clients
+      - Not compatible with some clients, with developers not attempting to fix conflicts
+      - Updates known to make the client worse due to removal of skidded code
     pvp: true
